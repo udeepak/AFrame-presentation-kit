@@ -20,21 +20,27 @@ Official starter slides for giving talks and presentations about A-Frame.
   - Advantages
   - API
   - Browser Support
-  - The Web is Ready for VR
-  - Metaverse
   - Barrier to Entry
 - A-Frame
   - Introduction
+  - Simplicity to develop using A-Frame
   - Hello World
-  - Multiuser Demo
+  - Tools and Languages supported
 - Entity-Component-System
   - Concept
   - Composing an Entity
   - Structure of a Component
+  - Structure of an Entity
+  - Available customization options in A-Frame
+  - A-Frame Registry
+  - A-Frame Inspector
+- A-Painter
 - Ecosystem
   - Community
   - Components
   - Scenes
+- Augumented Reality
+- A-Frame in Drupal
 - Conclusion
 
 ## Modifying Design
